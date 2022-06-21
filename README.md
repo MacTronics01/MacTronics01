@@ -49,7 +49,7 @@
 
 <p align="center">
 <a href="g.dev/mactronics/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mactronics/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mactronics/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Usen%20Macaulay%20Ubon-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="ubonmacaulay@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ubonmacaulay@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
