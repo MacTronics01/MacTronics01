@@ -26,7 +26,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) <br />
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-000000?style=flat&logo=jetpackcompose) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)<br />
-![VsCode](https://img.shields.io/badge/-VsCode-000000?style=flat&logo=vscode)<br />
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=visualstudiocode)<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
