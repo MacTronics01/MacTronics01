@@ -21,8 +21,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Figma](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma) <br />
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma) <br />
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) <br />
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) <br />
+![Jetpack](https://img.shields.io/badge/-Jetpack-000000?style=flat&logo=jetpack) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
