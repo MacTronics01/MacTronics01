@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Animation and 3D modelling and Developer Advocate as hobbies/side hustles.
 
-<img align='right' src="https://raw.githubusercontent.com/MacTronics01/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ## Languages
 
