@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma) <br />
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) <br />
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) <br />
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack Compose-000000?style=flat&logo=jetpack compose) <br />
+![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-000000?style=flat&logo=jetpackcompose) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
