@@ -12,9 +12,9 @@
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)<br />
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)<br />
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)<br />
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
 ## Tools:
@@ -24,8 +24,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma) <br />
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) <br />
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) <br />
-![Jetpack](https://img.shields.io/badge/-Jetpack-000000?style=flat&logo=jetpack) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack Compose-000000?style=flat&logo=jetpack compose) <br />
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
 ## Live Projects
