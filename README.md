@@ -48,10 +48,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="(https://developers.google.com/profile/u/mactronics)"><img alt="Website" src="https://img.shields.io/badge/Website-https://developers.google.com/profile/u/mactronics-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mactronics/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Usen%20Macaulay%20Ubon-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mactronics1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mactronics1-blue?style=flat-square&logo=instagram"></a>
-<a href="ubonmacaulay@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ubonmacaulay@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [MacTronics](https://github.com/MacTronics01)
