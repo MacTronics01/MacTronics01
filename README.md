@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://media.istockphoto.com/vectors/the-programmer-writes-code-vector-illustration-vector-id576727470?k=6&m=576727470&s=170667a&w=0&h=qqlANlfI74sEEARRa28kC2XXBqoeAdqqE29gI73kT4c=">
 
 <h2> Hey there! I'm Usen Macaulay... aka MacTronics.</h2>
 
