@@ -1,4 +1,6 @@
-<img src="https://media.istockphoto.com/vectors/the-programmer-writes-code-vector-illustration-vector-id576727470?k=6&m=576727470&s=170667a&w=0&h=qqlANlfI74sEEARRa28kC2XXBqoeAdqqE29gI73kT4c=">
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
 <h2> Hey there! I'm Usen Macaulay... aka MacTronics.</h2>
 
