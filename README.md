@@ -33,7 +33,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=visualstudiocode)<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
-## Live Projects
+## Live Project
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://MacTronics01.github.io/CPA)
 
