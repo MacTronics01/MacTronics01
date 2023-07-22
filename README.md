@@ -19,7 +19,8 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)<br />
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)<br />
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)<br />
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin) />
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 ## Tools:
 
@@ -30,6 +31,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) <br />
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-000000?style=flat&logo=jetpackcompose) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)<br />
+![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode)<br />
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=visualstudiocode)<br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
