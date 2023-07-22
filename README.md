@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)<br />
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)<br />
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)<br />
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin) />
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)<br />
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 ## Tools:
